@@ -1,0 +1,7 @@
+{
+    "name": "K210",
+    "description": "RISC-V 400MHz SoC",
+    "system": "*",
+    "url": "https://github.com/SoCXin/K210",
+    "version": "1.0.0"
+}
